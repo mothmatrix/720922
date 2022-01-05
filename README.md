@@ -1,4 +1,5 @@
 ### Hi there 👋
+[<img src="https://raw.githubusercontent.com/720922/720922/master/portfolioheaderfinalcut.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 
 <!--
 **720922/720922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
