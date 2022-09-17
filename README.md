@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on Bug Hunting
 - 💬 Ask me about Bug Bounties
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: rohit0x01@gmail.com
+- ⚡ Fun fact: You are awesome !!
 
